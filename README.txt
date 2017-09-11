@@ -6,3 +6,6 @@ This is a project I'm working on as a module in the SkillCrush Wordpress bluepri
 The module is 102 javaScript and the project is to build a LOLCat clock.
 
 -rev a just testing…
+
+So I moved the repository because I'm trying to clean up the directory structure on my computer...
+It's currently a mess, with stuff all over the place so I want to consolidate it all...
